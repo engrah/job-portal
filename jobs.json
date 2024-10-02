@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "Walton",
+    "salary": "50000",
+    "category": "High Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web application",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Software Developer",
+    "company": "High Tech Park",
+    "salary": "180,000",
+    "category": "High Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "System Admin",
+    "company": "Tech Corp",
+    "salary": "80,000",
+    "category": "High Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "IT Engineer",
+    "company": "BSRM",
+    "salary": "60,000",
+    "category": "Mid Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Junior Engineer",
+    "company": "KSRM",
+    "salary": "30,000",
+    "category": "Mid Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Applicaton Engineer",
+    "company": "Tech Corp",
+    "salary": "50,000",
+    "category": "Mid Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Software Tester",
+    "company": "Tech Corp",
+    "salary": "80,000",
+    "category": "High Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  },
+  {
+    "id": 8,
+    "title": " DevOPs Engineer",
+    "company": "Tech Corp",
+    "salary": "100000",
+    "category": "Mid Level",
+    "deadline": "30 october ,2024 ",
+    "description": "Develop and maintain web applications.",
+    "responsibilities": [
+      "Design, develop, and maintain software applications.",
+      "Collaborate with the engineering team to meet project deadlines.",
+      "Implement and optimize code for better performance."
+    ],
+    "qualifications": [
+      "Bachelor's degree in Computer Science or related field.",
+      "Proficient in JavaScript, HTML, CSS, and React.",
+      "3+ years of experience in software development."
+    ]
+  }
+]
